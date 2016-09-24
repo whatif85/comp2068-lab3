@@ -1,0 +1,22 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "lab 3",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "assignment",
+    "lab",
+    "3",
+    "rich",
+    "freeman"
+  ],
+  "author": "Gabe",
+  "license": "ISC"
+}
